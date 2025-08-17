@@ -4,28 +4,26 @@
 This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AWS**. It automates building, testing, and deploying a Python GUI demo application, showcasing cloud deployment and continuous integration practices.
 
 ## Project Workflow
-1. **Python Demo Application**  
-   - Created a simple Python GUI using Tkinter to simulate the application.  
-   - ![Python GUI Demo](images/python-gui.png)
 
-2. **Git & GitHub Setup**  
-   - Initialized Git locally and pushed the project to GitHub.  
-   - Resolved merge conflicts when syncing with the remote repository.  
+1. **Python Flask Application**
+   - Developed a Flask application as the backend service.
+   - ![Flask Application](images/flask-app.png)
+
+2. **GitHub Repository Setup**
+   - Initialized a GitHub repository and pushed the application code.
    - ![GitHub Repository](images/repo-overview.png)
 
-3. **GitHub Actions CI/CD**  
-   - Created a workflow to automatically build, test, and deploy the app on every push to `main`.  
-   - Verified workflow runs and ensured automated deployments.  
-   - ![GitHub Actions Workflow]<img width="1428" height="180" alt="Image" src="https://github.com/user-attachments/assets/a6e3a50d-5383-4e64-809e-dcafb5151873" />
+3. **CI/CD Pipeline with GitHub Actions**
+   - Configured a GitHub Actions workflow for automated testing and deployment.
+   - ![GitHub Actions Workflow](images/workflow-run.png)
 
-4. **AWS Deployment**  
-   - Configured AWS (EC2/S3) for hosting the application.  
-   - Linked GitHub Actions to deploy updates automatically after successful tests.  
-   - ![AWS Deployment](images/aws-deployment.png)
+4. **AWS Elastic Beanstalk Deployment**
+   - Deployed the application to AWS Elastic Beanstalk for cloud hosting.
+   - ![AWS Elastic Beanstalk](images/aws-deployment.png)
 
-5. **Verification**  
-   - Tested Python GUI locally and on AWS to confirm correct deployment.  
-   - Made multiple commits to validate the CI/CD pipeline automation.
+5. **Verification**
+   - Accessed the live application via the provided URL to ensure functionality.
+   - ![Live Application](images/live-app.png)
 
 ## Technologies Used
 - **Version Control:** Git, GitHub  
