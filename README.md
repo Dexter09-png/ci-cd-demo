@@ -34,4 +34,4 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 - **Programming Language:** Python (Tkinter GUI)  
 
 ## Author
-Sanita (Pixel) – Cloud Internship Project at Codec Technology
+Sanita Gaikwad – Cloud Internship Project at Codec Technology
