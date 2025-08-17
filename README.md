@@ -27,7 +27,7 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 ### 4. Verification
 - Accessed the live Flask application via the deployed URL.
 - Ensured the CI/CD pipeline works correctly with multiple commits.
-- ![Live Application] <img width="461" height="176" alt="Image" src="https://github.com/user-attachments/assets/7a78067b-82c3-4f10-baf3-90ef20bd611c" />
+- [Live Application] <img width="461" height="176" alt="Image" src="https://github.com/user-attachments/assets/7a78067b-82c3-4f10-baf3-90ef20bd611c" />
 
 ---
 
