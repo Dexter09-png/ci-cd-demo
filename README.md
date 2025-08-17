@@ -23,7 +23,7 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
   - Run automated tests.
   - Deploy the application to AWS after successful tests.
 - Verified workflow execution directly in the GitHub Actions tab.
-- ![GitHub Actions Workflow](images/workflow-run.png)
+- ![GitHub Actions Workflow]<img width="1428" height="180" alt="Image" src="https://github.com/user-attachments/assets/a6e3a50d-5383-4e64-809e-dcafb5151873" />
 
 ### 4. AWS Deployment
 - Configured AWS Elastic Beanstalk environment to host the Flask application.
