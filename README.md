@@ -15,7 +15,6 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 ### 2. Git & GitHub Setup
 - Initialized a Git repository locally and pushed the code to GitHub.
 - Resolved merge conflicts and synced with the remote repository.
-- ![GitHub Repository]<img width="1919" height="698" alt="Image" src="https://github.com/user-attachments/assets/bcef006a-21a8-4890-9c78-dca4cb723395" />
 
 ### 3. CI/CD Pipeline with GitHub Actions
 - Configured `.github/workflows/ci-cd-demo.yml` to:
