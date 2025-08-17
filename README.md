@@ -16,7 +16,7 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 3. **GitHub Actions CI/CD**  
    - Created a workflow to automatically build, test, and deploy the app on every push to `main`.  
    - Verified workflow runs and ensured automated deployments.  
-   - ![GitHub Actions Workflow](images/workflow-success.png)
+   - ![GitHub Actions Workflow]<img width="1428" height="180" alt="Image" src="https://github.com/user-attachments/assets/a6e3a50d-5383-4e64-809e-dcafb5151873" />
 
 4. **AWS Deployment**  
    - Configured AWS (EC2/S3) for hosting the application.  
