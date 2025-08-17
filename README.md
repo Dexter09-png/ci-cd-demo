@@ -10,7 +10,7 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 ### 1. Python Flask Application
 - Developed a Flask backend application (`app.py`) to simulate a web service.
 - Handles HTTP requests and responses as part of the demo.
-- [Flask Application]<img width="841" height="141" alt="Image" src="https://github.com/user-attachments/assets/2dc2a0b8-6b49-4daf-940e-060b0c70264c" />  
+- [Flask Application] <img width="841" height="141" alt="Image" src="https://github.com/user-attachments/assets/2dc2a0b8-6b49-4daf-940e-060b0c70264c" />  
 
 ### 2. Git & GitHub Setup
 - Initialized a Git repository locally and pushed the code to GitHub.
@@ -22,7 +22,7 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
   - Run automated tests.
   - Deploy the application to AWS after successful tests.
 - Verified workflow execution directly in the GitHub Actions tab.
-- [GitHub Actions Workflow]<img width="1428" height="180" alt="Image" src="https://github.com/user-attachments/assets/a6e3a50d-5383-4e64-809e-dcafb5151873" />
+- [GitHub Actions Workflow] <img width="1428" height="180" alt="Image" src="https://github.com/user-attachments/assets/a6e3a50d-5383-4e64-809e-dcafb5151873" />
 
 ### 4. AWS Deployment
 - Configured AWS Elastic Beanstalk environment to host the Flask application.
