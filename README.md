@@ -24,13 +24,7 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 - Verified workflow execution directly in the GitHub Actions tab.
 - [GitHub Actions Workflow] <img width="1428" height="180" alt="Image" src="https://github.com/user-attachments/assets/a6e3a50d-5383-4e64-809e-dcafb5151873" />
 
-### 4. AWS Deployment
-- Configured AWS Elastic Beanstalk environment to host the Flask application.
-- Linked GitHub Actions workflow to deploy automatically on each push to `main`.
-- Verified the live deployment.
-- ![AWS Elastic Beanstalk](images/aws-deployment.png)
-
-### 5. Verification
+### 4. Verification
 - Accessed the live Flask application via the deployed URL.
 - Ensured the CI/CD pipeline works correctly with multiple commits.
 - ![Live Application](images/live-app.png)
