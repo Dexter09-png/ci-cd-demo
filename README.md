@@ -26,18 +26,18 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 - [GitHub Actions Workflow]
 <img width="1428" height="180" alt="Image" src="https://github.com/user-attachments/assets/a6e3a50d-5383-4e64-809e-dcafb5151873" />
 
-### 4. Folder Structure Setup
-- Organized the project with dedicated folders:
-  - tests/ for test cases.
-  - .github/workflows/ for GitHub Actions pipeline configuration.
-- [Folder Structure]
-  
-
-### 5. Verification
+### 4. Verification
 - Accessed the live Flask application via the deployed URL.
 - Ensured the CI/CD pipeline works correctly with multiple commits.
 - [Live Application]
 <img width="461" height="176" alt="Image" src="https://github.com/user-attachments/assets/7a78067b-82c3-4f10-baf3-90ef20bd611c" />
+
+### 5. Folder Structure Setup
+- Organized the project with dedicated folders:
+  - tests/ for test cases.
+  - .github/workflows/ for GitHub Actions pipeline configuration.
+- [Folder Structure]
+ <img width="215" height="228" alt="Image" src="https://github.com/user-attachments/assets/fe7b3958-e73f-4963-8260-d3aee26681a2" /> 
 
 ---
 
