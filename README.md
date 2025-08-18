@@ -1,4 +1,4 @@
-# CI/CD Pipeline Demo Project
+# CI/CD Pipeline Project
 
 ## Overview
 This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AWS Elastic Beanstalk**. It automates building, testing, and deploying a Python **Flask application**, showcasing cloud deployment and continuous integration practices.
