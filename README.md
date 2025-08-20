@@ -50,4 +50,4 @@ This project demonstrates a **CI/CD pipeline** using **GitHub Actions** and **AW
 ---
 
 ## Author
-Sanita Gaikwad – Cloud Internship Project at Codec Technology
+Sanita Gaikwad – Cloud Internship Project at Codec Technologies
